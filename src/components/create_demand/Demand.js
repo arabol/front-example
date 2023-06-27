@@ -52,6 +52,7 @@ export default function Demand(props) {
                     </div>
                 </div>
             </MainPadding>
+            {/* This is regarding stash */}
         </div>
     )
 }
