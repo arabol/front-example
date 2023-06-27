@@ -26,7 +26,6 @@ const ProductDetailUi = styled.div`
 
 export default function Demand(props) {
 
-    // hello i am from develop
     const [selectedProduct, setSelectedProduct] = useState()
     return (
         <div className='container-fluid'>
