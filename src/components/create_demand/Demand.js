@@ -30,7 +30,7 @@ export default function Demand(props) {
     const [selectedProduct, setSelectedProduct] = useState()
     return (
         <div className='container-fluid'>
-            {/* Demand */}
+            {/* Demand Creating okay */}
             <MainPadding>
                 <div className='row'>
                     <div className={selectedProduct ? 'col-xl-1 col-lg-1 col-12': 'col-xl-1 col-lg-1 col-12'}></div>
